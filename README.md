@@ -40,8 +40,7 @@ Feedback is provided in terms of heuristic function
 
 <h2>PROGRAM:</h2>
 
-```
-python
+```python
 import random
 import string
 def generate_random_solution(answer):
